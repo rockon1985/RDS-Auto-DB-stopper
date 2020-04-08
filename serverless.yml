@@ -10,7 +10,7 @@ provider:
   name: aws
   runtime: nodejs12.x
   environment:
-    INSANCE_ID: test-db
+    INSTANCE_ID: test-db
   iamRoleStatements:
     - Effect: "Allow"
       Action: 
