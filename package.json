@@ -9,6 +9,6 @@
   "author": "Ketan Saxena <ksaxena@grepruby.io>",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.668.0"
+    "aws-sdk": "^2.814.0"
   }
 }
